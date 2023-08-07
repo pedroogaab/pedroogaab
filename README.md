@@ -10,7 +10,8 @@
 
 <div align=center>
   <br>
-  <img src="https://media3.giphy.com/media/VaKOuNStrqD0A/giphy.gif?cid=ecf05e475y8e731d8ryurmx5vrqa0q402so85e8p0ban41wn&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="300" width="200">
+  <img src="https://media0.giphy.com/media/yeE6B8nEKcTMWWvBzD/giphy.gif?cid=ecf05e47p8n4uxc8bnpj3q9kuy388ol9jmiuw7whpj6e4263&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120"> 
+
 </div>
 
   ## <p style="color:green;"> About me </p>
@@ -64,8 +65,13 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroogaab&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroogaab&layout=compact&langs_count=7&theme=radical"/>
   <br>
-  <img src="https://media0.giphy.com/media/yeE6B8nEKcTMWWvBzD/giphy.gif?cid=ecf05e47p8n4uxc8bnpj3q9kuy388ol9jmiuw7whpj6e4263&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120"> 
+
 </div>
 
+
+<div align=center>
+  <br>
+  <img src="https://media3.giphy.com/media/VaKOuNStrqD0A/giphy.gif?cid=ecf05e475y8e731d8ryurmx5vrqa0q402so85e8p0ban41wn&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="300" width="200">
+</div>
 
 
