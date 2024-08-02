@@ -15,7 +15,7 @@
 </div>
 
   ## <p style="color:green;"> About me </p>
-  ### <p align="justify"> I go by the name of Pedro Gabriel dos Santos. At 21 years old, I am currently in the 8th semester of my Computer Engineering program. I actively seek out challenging opportunities to apply and further develop my skills while making a significant impact in the professional arena...
+  ### <p align="justify"> I go by the name of Pedro Gabriel dos Santos. At 22 years old, I am currently in the 8th semester of my Computer Engineering program. I actively seek out challenging opportunities to apply and further develop my skills while making a significant impact in the professional arena...
   
   ### <p align="justify"> My passion for technology drives me to strive for excellence as a senior developer. My current focus lies in the broad field of image processing, machine learning, and data analysis, where I dedicate my efforts to researching, innovating, and crafting advanced AI solutions. I believe that the essence of a developer goes beyond specific tools and technologies, encompassing the fundamental skill of tackling challenges efficiently, regardless of the technological context.</p><br>
 
