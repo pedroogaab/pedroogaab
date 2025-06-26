@@ -17,8 +17,7 @@
   ## <p style="color:green;"> About me </p>
   ### <p align="justify"> I'm Pedro Gabriel dos Santos, I'm 23 years old and I'm currently in my 10th semester of Computer Engineering. 
   
-  ### <p align="justify"> I'm more familiar with Python, but I also enjoy working with Java. 
-I have more than 3 years' professional experience in the area, and I'm constantly learning and developing, both personally and professionally.</p><br>
+  ### <p align="justify"> I'm more familiar with Python, but I also enjoy working with Java. I have more than 3 years' professional experience in the area, and I'm constantly learning and developing, both personally and professionally.</p><br>
 
 
 ## <p style="color:green;"> Programming Language </p>
